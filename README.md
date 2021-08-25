@@ -16,7 +16,7 @@ Meet Sammy Njau a passionate Full-Stack Engineer from Nairobi, Kenya.
 </p>
 
 ![Njau's github stats](https://github-readme-stats.vercel.app/api?username=mbugwasami&&hide=["contribs","issues"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbugwasamis&exclude_repo=school-agenda-front&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbugwasami&exclude_repo=schoolg-agenda-front&theme=tokyonight)
 
 <!--.
 
