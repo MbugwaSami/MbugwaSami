@@ -2,7 +2,7 @@
 
 Meet Sammy Njau a passionate Full-Stack Engineer from Nairobi, Kenya.
 
-- 🔭 I’m currently working on a *Education* project.
+- 🔭 I’m currently working on an *Education* project.
 - 🌱 I’m currently learning *C#*, Ms Power apps.
 - 👯 I’m looking to collaborate on *open-source* projects that helps vulnerable people in the society or improves the well being of people.
 - 💬 Ask me about *Typescript/Javascript, React* 😊  
